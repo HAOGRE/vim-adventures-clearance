@@ -1,6 +1,13 @@
 # Clearance----vim-adventures.com
 vim-adventures 通关攻略--其实我不知道自己能否通关
 
+###先来个vim练级攻略
+
+####[简明 Vim 练级攻略](http://coolshell.cn/articles/5426.html) via coolshell
+
+###再来张图镇楼！ 经典vim-cheat-sheet !!
+####![image](http://www.viemu.com/vi-vim-cheat-sheet.gif)
+
 way to Clearance the vim-adventures.com  @site http://vim-adventures.com/
 
 TEST IMG BY GITHUB
@@ -15,6 +22,7 @@ MAYBE IT IS OK TOO?
 ## Levels
 
 ###level 1 start
+it is just for practicing the 'h' 'j' 'k' 'l' keys . Follow me and read cloudly : 'left' 'down' 'up' 'right' ,they are not 'hjkl' in the vim normal pattern . 
 
 ###level 1 end
 
