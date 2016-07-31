@@ -10,20 +10,22 @@ vim-adventures 通关攻略--其实我不知道自己能否通关
 
 way to Clearance the vim-adventures.com  @site http://vim-adventures.com/
 
-TEST IMG BY GITHUB
-![image](https://github.com/HAOGRE/vim-adventures-Clearance/blob/master/screenshot/000-loading.jpg)
+####TEST IMG BY GITHUB
+##![image](https://github.com/HAOGRE/vim-adventures-Clearance/blob/master/screenshot/000-loading.jpg)
 
-MAYBE IT IS OK ?
+###MAYBE IT IS OK ?
 <!-- 
-TEST IMG BY QINIU
-![image](http://7xrwkv.com1.z0.glb.clouddn.com/000-loading.jpg)
-MAYBE IT IS OK TOO?
+####TEST IMG BY QINIU
+##![image](http://7xrwkv.com1.z0.glb.clouddn.com/000-loading.jpg)
+####MAYBE IT IS OK TOO?
 -->
 ## Levels
 
 ###level 1 start
 it is just for practicing the 'h' 'j' 'k' 'l' keys . Follow me and read cloudly : 'left' 'down' 'up' 'right' ,they are not 'hjkl' in the vim normal pattern . 
 
+##![image](https://github.com/HAOGRE/vim-adventures-Clearance/blob/master/screenshot/001-level01.png)
+nothing could stop u in this level and forget the box what is unopened ,u will open it some levels later .
 ###level 1 end
 
 ###level 2 start
