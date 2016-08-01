@@ -20,63 +20,71 @@ way to Clearance the vim-adventures.com  @site http://vim-adventures.com/
 ####MAYBE IT IS OK TOO?
 -->
 ## Levels
-
-###level 1 start
+<!--stars for levels 
+★☆☆☆☆
+★★☆☆☆
+★★★☆☆
+★★★★☆
+★★★★★
+ -->
+###level 1 start ★☆☆☆☆
 it is just for practicing the 'h' 'j' 'k' 'l' keys . Follow me and read cloudly : 'left' 'down' 'up' 'right' ,they are not 'hjkl' in the vim normal pattern . 
 
 ##![image](https://github.com/HAOGRE/vim-adventures-Clearance/blob/master/screenshot/001-level01.png)
 nothing could stop u in this level and forget the box what is unopened ,u will open it some levels later .
-###level 1 end
+###level 1 end 
 
-###level 2 start
-
+###level 2 start ★☆☆☆☆
+it is just for practicing the 'w-word next' 'e-word end' 'b-word prev' keys ! u need collect all the key words for the features to use ! just follow the tips given by the NPC. Do not forget get all the keys to open boxes in the bottom right cornerl.
+##pic here
+##![image](https://github.com/HAOGRE/vim-adventures-Clearance/blob/master/screenshot/002-level02.png)
 ###level 2 end
 
-###level 3 start
+###level 3 start ★☆☆☆☆
 
 ###level 3 end
 
-###level 4 start
+###level 4 start ★★☆☆☆
 
 ###level 4 end
 
-###level 5 start
+###level 5 start ★★☆☆☆
 
 ###level 5 end
 
-###level 6 start
+###level 6 start ★★★☆☆
 
 ###level 6 end
 
-###level 7 start
+###level 7 start ★★★☆☆
 
 ###level 7 end
 
-###level 8 start
+###level 8 start ★★★☆☆
 
 ###level 8 end
 
-###level 9 start
+###level 9 start ★★★★☆
 
 ###level 9 end
 
-###level 10 start
+###level 10 start ★★★★☆
 
 ###level 10 end
 
-###level 11 start
+###level 11 start ★★★★☆
 
 ###level 11 end
 
-###level 12 start
+###level 12 start ★★★★★
 
-###level 12 end
+###level 12 end 
 
-###level 13 start
+###level 13 start ★★★★★
 
 ###level 13 end
 
-###level 14 start
+###level 14 start ★★★★★
 
 ###level 14 end
 
