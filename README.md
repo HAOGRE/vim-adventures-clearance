@@ -41,7 +41,13 @@ it is just for practicing the 'w-word next' 'e-word end' 'b-word prev' keys ! u 
 ###level 2 end
 
 ###level 3 start ★☆☆☆☆
+this level is the last free level ! enjoy it !
+u will get the 'B-shift+b' and 'x-delete char' in this level .
+get them and get the key for level 1 ,then go to level and just 'shitf+b' to open the box which is left before . open it and move in dark . 
+Hahaa.
 
+##pic here
+##![image](https://github.com/HAOGRE/vim-adventures-Clearance/blob/master/screenshot/003-level03.jpg)
 ###level 3 end
 
 ###level 4 start ★★☆☆☆
