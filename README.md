@@ -49,7 +49,7 @@ Hahaa.
 ##pic here
 ##![image](https://github.com/HAOGRE/vim-adventures-Clearance/blob/master/screenshot/003-level03.jpg)
 ###level 3 end
-
+passed
 ###level 4 start ★★☆☆☆
 
 ###level 4 end
