@@ -51,7 +51,8 @@ Hahaa.
 ###level 3 end
 passed
 ###level 4 start ★★☆☆☆
-
+the first part u will get 'E' AND 'W' for the end of nex word and the start of next word!then u will get 'r' which means replace one char ! the u can correct all the wrong spells and then u have pass level 4 . so easy is not it ?
+##![image]()
 ###level 4 end
 
 ###level 5 start ★★☆☆☆
