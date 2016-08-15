@@ -56,7 +56,10 @@ the first part u will get 'E' AND 'W' for the end of nex word and the start of n
 ###level 4 end
 
 ###level 5 start ★★☆☆☆
-
+in the first part u will get the 'd' for delete chars or line ! it is strongger than x ! u can u next with 'd',ok ready to go !
+'de' 'db' 'dw' 'dE' 'dW' 'dB' 'dj' 'dk' etc. is all do sth.
+go next  ! hahaha !
+##![image](https://raw.githubusercontent.com/HAOGRE/vim-adventures-Clearance/master/screenshot/005-level05.jpg)
 ###level 5 end
 
 ###level 6 start ★★★☆☆
