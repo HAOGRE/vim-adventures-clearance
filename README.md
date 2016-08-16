@@ -63,7 +63,7 @@ go next  ! hahaha !
 ###level 5 end
 
 ###level 6 start ★★★☆☆
-
+##![image](https://github.com/HAOGRE/vim-adventures-Clearance/blob/master/screenshot/006-level06.jpg)
 ###level 6 end
 
 ###level 7 start ★★★☆☆
