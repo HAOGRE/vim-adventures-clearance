@@ -1,3 +1,4 @@
+#停止更新 授权已到期
 # Clearance----vim-adventures.com
 vim-adventures 通关攻略--其实我不知道自己能否通关
 
